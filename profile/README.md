@@ -1,4 +1,4 @@
-![JG Scripts Logo](https://github.com/jgscripts/.github/assets/3826279/fb57ecf6-1a20-40d6-a3b5-de2ba6668f30)
+![JG Scripts](https://github.com/jgscripts/.github/assets/3826279/9606c246-8a5d-42ba-a0c0-15d2c33e5c92)
 
 # The best scripts for your FiveM server.
 
